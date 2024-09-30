@@ -1,0 +1,4368 @@
+[
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 0,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                32,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 1,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                34,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 2,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                36,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 3,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                37,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 4,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                39,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 5,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                41,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 6,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                42,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 7,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                44,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 8,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                46,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 9,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                48,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 10,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                49,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 11,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                51,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 12,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                53,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 13,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                54,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 14,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                56,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 15,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                58,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 16,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                59,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 17,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                61,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 18,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                63,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 19,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                65,
+                14
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 20,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                66,
+                14
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 21,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                68,
+                14
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 22,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                70,
+                15
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 23,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                71,
+                15
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 24,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                73,
+                16
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 25,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                74,
+                16
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 26,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                73,
+                17
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 27,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                71,
+                17
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 28,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                69,
+                18
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 29,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                68,
+                19
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 30,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                66,
+                19
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 31,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                64,
+                20
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 32,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                62,
+                20
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 33,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                61,
+                21
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 34,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                59,
+                22
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 35,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                57,
+                22
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 36,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                56,
+                23
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 37,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                54,
+                24
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 38,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                52,
+                25
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 39,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                51,
+                26
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 40,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                49,
+                26
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 41,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                47,
+                27
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 42,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                45,
+                28
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 43,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                44,
+                29
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 44,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                42,
+                30
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 45,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                40,
+                31
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 46,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                39,
+                32
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 47,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                37,
+                33
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 48,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                35,
+                34
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 49,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                34,
+                35
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 50,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                32,
+                36
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 51,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                30,
+                37
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 52,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                28,
+                38
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 53,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                27,
+                39
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 54,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                25,
+                39
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 55,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                23,
+                38
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 56,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                22,
+                37
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 57,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                20,
+                36
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 58,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                18,
+                35
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 59,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                17,
+                34
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 60,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                15,
+                33
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 61,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                13,
+                32
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 62,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                11,
+                31
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 63,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                10,
+                30
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 64,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                8,
+                29
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 65,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                6,
+                28
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 66,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                5,
+                28
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 67,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                3,
+                27
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 68,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                2,
+                26
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 69,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                4,
+                25
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 70,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                5,
+                24
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 71,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                7,
+                24
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 72,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                9,
+                23
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 73,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                10,
+                22
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 74,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                12,
+                21
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 75,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                14,
+                21
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 76,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                15,
+                20
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 77,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                17,
+                19
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 78,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                19,
+                19
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 79,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                21,
+                18
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 80,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                22,
+                18
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 81,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                24,
+                17
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 82,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                26,
+                17
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 83,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                27,
+                16
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 84,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                29,
+                16
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 85,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                31,
+                15
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 86,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                32,
+                15
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 87,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                34,
+                14
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 88,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                36,
+                14
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 89,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                38,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 90,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                39,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 91,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                41,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 92,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                43,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 93,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                44,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 94,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                46,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 95,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                48,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 96,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                49,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 97,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                51,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 98,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                53,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 99,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                55,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 100,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                56,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 101,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                58,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 102,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                60,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 103,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                61,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 104,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                63,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 105,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                65,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 106,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                66,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 107,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                68,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 108,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                70,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 109,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                72,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 110,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                73,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 111,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                74,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 112,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                72,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 113,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                71,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 114,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                69,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 115,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                67,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 116,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                66,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 117,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                64,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 118,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                62,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 119,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                61,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 120,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                59,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 121,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                57,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 122,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                55,
+                11
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 123,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                54,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 124,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                52,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 125,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                50,
+                12
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 126,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                49,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 127,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                47,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 128,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                45,
+                13
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 129,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                44,
+                14
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 130,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                42,
+                14
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 131,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                40,
+                15
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 132,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                38,
+                15
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 133,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                37,
+                15
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 134,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                35,
+                16
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 135,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                33,
+                16
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 136,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                32,
+                17
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 137,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                30,
+                18
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 138,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                28,
+                18
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 139,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                27,
+                19
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 140,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                25,
+                19
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 141,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                23,
+                20
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 142,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                21,
+                21
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 143,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                20,
+                21
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 144,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                18,
+                22
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 145,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                16,
+                23
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 146,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                15,
+                24
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 147,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                13,
+                24
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 148,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                11,
+                25
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 149,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                10,
+                26
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 150,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                8,
+                27
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 151,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                6,
+                28
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 152,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                4,
+                28
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 153,
+        "score": 1,
+        "ball_coordinates": [
+            [
+                3,
+                29
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 154,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                2,
+                30
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 155,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                4,
+                31
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 156,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                5,
+                32
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 157,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                7,
+                33
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 158,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                9,
+                34
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 159,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                11,
+                35
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 160,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                12,
+                36
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 161,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                14,
+                37
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 162,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                16,
+                38
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 163,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                17,
+                39
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 164,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                19,
+                39
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 165,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                21,
+                38
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 166,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                22,
+                37
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 167,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                24,
+                36
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 168,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                26,
+                35
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 169,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                28,
+                34
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 170,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                29,
+                33
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 171,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                31,
+                32
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 172,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                33,
+                31
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 173,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                34,
+                30
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 174,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                36,
+                29
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 175,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                38,
+                28
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 176,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                39,
+                27
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 177,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                41,
+                26
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 178,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                43,
+                26
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 179,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                45,
+                25
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 180,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                46,
+                24
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 181,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                48,
+                23
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 182,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                50,
+                23
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 183,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                51,
+                22
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 184,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                53,
+                21
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 185,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                55,
+                20
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 186,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                56,
+                20
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 187,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                58,
+                19
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 188,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                60,
+                19
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 189,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                62,
+                18
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 190,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                63,
+                17
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 191,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                65,
+                17
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 192,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                67,
+                16
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 193,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                68,
+                16
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 194,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                70,
+                15
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 195,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                72,
+                15
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 196,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                73,
+                14
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 197,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                74,
+                14
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 198,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                72,
+                14
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 199,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                71,
+                13
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 200,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                69,
+                13
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 201,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                67,
+                12
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 202,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                65,
+                12
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 203,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                64,
+                12
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 204,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                62,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 205,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                60,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 206,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                59,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 207,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                57,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 208,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                55,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 209,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                54,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 210,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                52,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 211,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                50,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 212,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                48,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 213,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                47,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 214,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                45,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 215,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                43,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 216,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                42,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 217,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                40,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 218,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                38,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 219,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                37,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 220,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                35,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 221,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                33,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 222,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                31,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 223,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                30,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 224,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                28,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 225,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                26,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 226,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                25,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 227,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                23,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 228,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                21,
+                10
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 229,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                20,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 230,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                18,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 231,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                16,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 232,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                14,
+                11
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 233,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                13,
+                12
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 234,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                11,
+                12
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 235,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                9,
+                12
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 236,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                8,
+                13
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 237,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                6,
+                13
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 238,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                4,
+                13
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 239,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                3,
+                14
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 240,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                1,
+                14
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 241,
+        "score": 2,
+        "ball_coordinates": [
+            [
+                2,
+                15
+            ]
+        ],
+        "paddle_height": 9,
+        "paddle_top_coordinate": [
+            1,
+            26
+        ]
+    },
+    {
+        "game_ended": true,
+        "height": 39,
+        "width": 75,
+        "frame_num": 242,
+        "score": 2,
+        "ball_coordinates": "PASS",
+        "paddle_height": "PASS",
+        "paddle_top_coordinate": "PASS"
+    }
+]

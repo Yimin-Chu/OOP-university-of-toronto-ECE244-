@@ -1,0 +1,84 @@
+[
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 0,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                32,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 1,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                34,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 2,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                36,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": false,
+        "height": 39,
+        "width": 75,
+        "frame_num": 3,
+        "score": 0,
+        "ball_coordinates": [
+            [
+                37,
+                10
+            ]
+        ],
+        "paddle_height": 10,
+        "paddle_top_coordinate": [
+            1,
+            25
+        ]
+    },
+    {
+        "game_ended": true,
+        "height": 39,
+        "width": 75,
+        "frame_num": 4,
+        "score": 0,
+        "ball_coordinates": "PASS",
+        "paddle_height": "PASS",
+        "paddle_top_coordinate": "PASS"
+    }
+]
